@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+e4eb5b98ba5dabbfaeaefa52b5dff344db6fddad refs/remotes/origin/feat(autosnippets)
+c792dd153652c3fcddbdc9bf77ccd0e96ecaddf2 refs/remotes/origin/feature/refresh
+16832bb50e760223a403ffa3042859845dd9ef9d refs/remotes/origin/master
+6f0491aeadc874c17bad750a534bf32087198591 refs/remotes/origin/regex_triggers
