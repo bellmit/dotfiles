@@ -1,0 +1,2 @@
+## Prerequisite
+`brew install ripgrep`
